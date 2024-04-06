@@ -1,10 +1,6 @@
 # SPRINT03
-Projetos de web e front
-<ul>
-  <li>Beatriz Dantas Sampaio RM554044</li>
-  <li>Giovanna Franco Gaudino Rodrigues RM553701</li>
-  <li>Isabella Barcellos RM553746</li>
-</ul>
+<center>Projetos de Web Development e Front-End Design </center> Projetos de web e front
+
 <table>
   <tr>
     <td>
@@ -28,7 +24,7 @@ Projetos de web e front
     <td>
       <div>
         <b>Challenge ESPB <br> </b>
-      <td> <b>Objetivo → <br> Fazer um site funcional para o Instituto da Criança e do Adolescente - Hospital das Clínicas </b> </td>
+      <td> <b>Objetivo → <br> Fazer um site mais informativo e lúdico para alcançar os paciente do Instituto da Criança e do Adolescente - Hospital das Clínicas </b> </td>
       </div>
     </td>
   </tr>
